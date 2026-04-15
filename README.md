@@ -15,7 +15,8 @@ This project is an Excel-based Sales Dashboard created to analyze sales performa
 - Charts & Data Visualization
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+<img width="1881" height="761" alt="Screenshot 2026-04-15 133137" src="https://github.com/user-attachments/assets/cbd5e941-e34e-4c2c-9146-a789b888cac5" />
+
 
 ## 📈 Key Insights
 - Identified top-performing customers
